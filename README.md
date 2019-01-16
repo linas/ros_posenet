@@ -28,3 +28,4 @@ Following ROS parameters should be set:
  * Only multiple pose detection implemented
  * Requires internet to download the model weights
  * Only ROS tpopics with RGB8 encoding are supported as inputs
+##### Copyright (c) 2013-2018 Hanson Robotics, Ltd. 

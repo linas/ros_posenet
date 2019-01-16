@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Copyright (c) 2013-2018 Hanson Robotics, Ltd. 
 
 'use strict'
 
